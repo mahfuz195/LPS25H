@@ -7,14 +7,14 @@ I2C Communication Between Arduino and ST LPS25H sensor.
 
 Pin Connection:
 
-VDD --> 3.3V
+      VDD --> 3.3V
 
-GND --> GND
+      GND --> GND
 
-SD0 --> VDD
+      SD0 --> VDD
 
-SDA --> Arduino mega Pin 20 / Arduino Uno Pin SDA
+      SDA --> Arduino mega Pin 20 / Arduino Uno Pin SDA
 
-SCL --> Arduino mega Pin 21 / Arduino Uno Pin SCL
+      SCL --> Arduino mega Pin 21 / Arduino Uno Pin SCL
       
       
